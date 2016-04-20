@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Albright\\IST972 Android Development\\Assignments\\GCAssignment1\\GCActivities\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "E:\\Albright\\IST972 Android Development\\Assignments\\GCAssignment1\\GCActivities\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gcq1w_000\\AndroidStudioProjects\\Activities\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\Gcq1w_000\\AndroidStudioProjects\\Activities\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    }
+]

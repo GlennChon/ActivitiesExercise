@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Albright\\IST972 Android Development\\Assignments\\GCAssignment1\\GCActivities\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_full_open_on_phone.png",
+        "source": "E:\\Albright\\IST972 Android Development\\Assignments\\GCAssignment1\\GCActivities\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-tvdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Gcq1w_000\\AndroidStudioProjects\\Activities\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\Gcq1w_000\\AndroidStudioProjects\\Activities\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-tvdpi\\common_full_open_on_phone.png"
+    }
+]

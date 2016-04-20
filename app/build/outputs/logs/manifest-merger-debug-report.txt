@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:2:1-199:12
+	xmlns:android
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:appcompat-v7:23.2.1] E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:23.2.1] E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.1] E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.1] E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.2.1] E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.1] E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.2.1] E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:7:15-40
+		INJECTED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.2.1] E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:23:9-75
+android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:9:5-89
+	android:name
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:9:30-86
+android:uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:10:5-83
+	android:name
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:10:30-80
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:11:5-88
+	android:name
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:11:30-85
+application
+ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:13:5-197:19
+MERGED from [com.android.support:appcompat-v7:23.2.1] E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:23.2.1] E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.1] E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.1] E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.2.1] E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:14:9-38
+activity#net.learn2develop.Activities.MainActivity
+ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:16:9-26:20
+	android:label
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:24:27-74
+activity#net.learn2develop.Activities.Activity2
+ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:27:9-49:20
+	android:label
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:29:13-39
+	android:name
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:28:13-38
+intent-filter#android.intent.category.DEFAULT+net.learn2develop.ACTIVITY2
+ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:30:13-34:29
+action#net.learn2develop.ACTIVITY2
+ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:31:17-70
+	android:name
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:31:25-67
+category#android.intent.category.DEFAULT
+ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:33:17-76
+	android:name
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:33:27-73
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:37:13-48:29
+action#android.intent.action.VIEW
+ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:38:25-66
+category#android.intent.category.BROWSABLE
+ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:41:17-78
+	android:name
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:41:27-75
+data
+ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:44:17-47:45
+	android:host
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:45:21-64
+	android:pathPrefix
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:46:21-52
+	android:scheme
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:47:21-42
+activity#net.learn2develop.Activities.Activity3
+ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:50:9-156:20
+	android:label
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:52:13-39
+	android:name
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:51:13-38
+activity#net.learn2develop.Activities.GCActivity4
+ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:157:9-191:20
+	android:name
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:157:19-46
+intent-filter#android.intent.category.DEFAULT+net.learn2develop.GCActivity4
+ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:158:13-162:25
+action#net.learn2develop.GCActivity4
+ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:159:13-68
+	android:name
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:159:21-65
+meta-data#com.google.android.gms.version
+ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:194:9-196:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+	android:name
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:195:13-58
+	android:value
+		ADDED from E:\Albright\IST972 Android Development\Assignments\GCAssignment1\GCActivities\app\src\main\AndroidManifest.xml:196:13-66

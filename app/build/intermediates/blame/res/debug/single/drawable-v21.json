@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\Albright\\IST972 Android Development\\Assignments\\GCAssignment1\\GCActivities\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "E:\\Albright\\IST972 Android Development\\Assignments\\GCAssignment1\\GCActivities\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gcq1w_000\\AndroidStudioProjects\\Activities\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Gcq1w_000\\AndroidStudioProjects\\Activities\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Albright\\IST972 Android Development\\Assignments\\GCAssignment1\\GCActivities\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "E:\\Albright\\IST972 Android Development\\Assignments\\GCAssignment1\\GCActivities\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gcq1w_000\\AndroidStudioProjects\\Activities\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Gcq1w_000\\AndroidStudioProjects\\Activities\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "E:\\Albright\\IST972 Android Development\\Assignments\\GCAssignment1\\GCActivities\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "E:\\Albright\\IST972 Android Development\\Assignments\\GCAssignment1\\GCActivities\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
+]
